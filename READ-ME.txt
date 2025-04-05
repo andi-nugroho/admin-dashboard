@@ -1,0 +1,11 @@
+  =>  Template Name    : DarkPan - Bootstrap 5
+
+  =>  Template Link    :
+
+  =>  Template License :
+
+  =>  Template Author  : Andi Nugroho
+
+  =>  Author Website   :
+
+  =>  About HTML NERD : NERD is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( # )
